@@ -16,7 +16,7 @@ This project is a Java Spring Boot implementation of a Product API that was orig
 
 The screenshot below shows the application in action, with the APIs returning the expected results:
 
-![Working Sample](/src/main/resources/working-sample-jayanta/Screenshot%202025-03-16%20at%203.06.07%20PM.png)
+![Working Sample](https://raw.githubusercontent.com/Jayanta-karmakar/dealer_evaluation_backend/refs/heads/upwork-sample-work-by-jayanta-karmakar/src/main/resources/working-sample-jayanta/Screenshot%202025-03-16%20at%203.17.31%E2%80%AFPM.png)
 
 ---
 
