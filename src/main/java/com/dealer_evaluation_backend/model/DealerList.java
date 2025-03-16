@@ -1,8 +1,11 @@
 package com.dealer_evaluation_backend.model;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
-import java.util.Map;
+import java.util.List;
 
 /**
  * @author : jayantakarmakar
@@ -14,7 +17,6 @@ import java.util.Map;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class Dealer {
-    private String dealer;
-    private Map<String, String> products;
+class DealerList {
+    private List<Dealer> dealers;
 }
